@@ -1,2 +1,2 @@
-# Sea-Turtles-Hatcheries-in-Sri-Lanka
+# Sea-Turtle-Hatcheries-in-Sri-Lanka
 Web Development Assignment 
